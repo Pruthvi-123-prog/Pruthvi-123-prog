@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pruthvi Suvarna K.M
-- 👀 I’m interested in scripting(all kinds)
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,XSS
+- 👀 I’m interested in scripting (all kinds)
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, XSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
