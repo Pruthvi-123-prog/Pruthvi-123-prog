@@ -1,9 +1,8 @@
-<!-- ============================================================
-      PRUTHVI SUVARNA K.M — CLEAN, ICON-ONLY, FULLY WORKING README
-=============================================================== -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=007BFF&center=true&vCenter=true&width=750&lines=Pruthvi+Suvarna+K.M;Full-Stack+Developer;Pentester;Open-Source+Contributor" alt="header animation"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=007BFF&center=true&vCenter=true&width=750&lines=Pruthvi+Suvarna+K.M;Full-Stack+Developer;Pentester;Open-Source+Contributor"
+    alt="Header"
+  />
 </p>
 
 <p align="center">
@@ -14,48 +13,59 @@
 
 ---
 
-## About Me  
-Engineering student focused on secure, scalable, user-centric systems.  
-Working with React, Next.js, Tailwind, TypeScript, Node, Docker, Linux and professional pentesting methodologies.
+## About Me
+
+Full-stack developer and penetration tester focusing on secure, scalable, user-centric systems.  
+Experienced with React, Next.js, Tailwind CSS, TypeScript, Node, Docker, Linux, and modern security testing methodologies.
 
 ---
 
-# Activity Heatmap (100% Working)
+## Contribution Overview
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Pruthvi-123-prog" alt="GitHub heatmap"/>
+  <img src="https://ghchart.rshah.org/Pruthvi-123-prog" alt="Contribution heatmap" />
 </p>
 
 ---
 
-# GitHub Statistics (100% Working)
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pruthvi-123-prog&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Pruthvi-123-prog&show_icons=true&theme=github_dark&count_private=true&hide_border=true" 
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
 
-# Languages (100% Working)
+## Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvi-123-prog&layout=compact&theme=github_dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvi-123-prog&layout=compact&theme=github_dark&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-# Achievements (100% Working)
+## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pruthvi-123-prog&theme=onestar&no-frame=true&row=2&column=4" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Pruthvi-123-prog&theme=onestar&no-frame=true&row=2&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
-# Simplified Activity Snapshot  
-*(Replaces broken streak/sparkline widgets)*  
-*(Uses only stable cards that GitHub always renders)*
+## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pruthvi-123-prog&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Pruthvi-123-prog&theme=react-dark&hide_border=true"
+    alt="Activity Graph"
+  />
 </p>
