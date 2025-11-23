@@ -16,7 +16,7 @@
 
 ## About Me  
 Engineering student focused on secure, scalable, user-centric systems.  
-Works with React, Next.js, Tailwind, TypeScript, Node, Docker, Linux, and professional penetration testing methodologies.
+Working with React, Next.js, Tailwind, TypeScript, Node, Docker, Linux and professional pentesting methodologies.
 
 ---
 
@@ -41,22 +41,13 @@ Works with React, Next.js, Tailwind, TypeScript, Node, Docker, Linux, and profes
 <td align="center">
 
 ### Contribution Streak
-<!-- Multiple providers + inline fallback -->
 <p>
   <picture>
     <source srcset="https://streak-stats.demolab.com?user=Pruthvi-123-prog&theme=github-dark-blue&hide_border=true" type="image/svg+xml">
     <source srcset="https://git-hub-streak-stats.vercel.app/?user=Pruthvi-123-prog&theme=github-dark-blue&hide_border=true" type="image/svg+xml">
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pruthvi-123-prog&theme=github-dark-blue&hide_border=true" type="image/svg+xml">
 
-    <img alt="Streak stats fallback" 
-      src='data:image/svg+xml;utf8,
-      <svg xmlns="http://www.w3.org/2000/svg" width="760" height="120">
-        <rect width="760" height="120" rx="8" fill="%23102129"/>
-        <text x="24" y="40" font-family="Arial" font-size="18" fill="%23ffffff">Contribution Streak Unavailable</text>
-        <text x="24" y="70" font-family="Arial" font-size="13" fill="%23b7c2cc">
-          The public streak service did not respond. Refer to activity graph above.
-        </text>
-      </svg>' />
+    <img alt="Streak stats fallback" src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22760%22%20height%3D%22120%22%3E%3Crect%20width%3D%22760%22%20height%3D%22120%22%20rx%3D%228%22%20fill%3D%22%23102129%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2240%22%20font-family%3D%22Arial%22%20font-size%3D%2218%22%20fill%3D%22%23ffffff%22%3EContribution%20Streak%20Unavailable%3C%2Ftext%3E%3Ctext%20x%3D%2224%22%20y%3D%2270%22%20font-family%3D%22Arial%22%20font-size%3D%2213%22%20fill%3D%22%23b7c2cc%22%3EThe%20public%20streak%20service%20did%20not%20respond.%20Refer%20to%20activity%20graph%20above.%3C%2Ftext%3E%3C%2Fsvg%3E" />
   </picture>
 </p>
 
@@ -89,16 +80,6 @@ Works with React, Next.js, Tailwind, TypeScript, Node, Docker, Linux, and profes
     <source srcset="https://github-readme-stats.vercel.app/api/commit-activity?username=Pruthvi-123-prog&range=90&hide_border=true" type="image/svg+xml">
     <source srcset="https://streak-stats.demolab.com?user=Pruthvi-123-prog&mode=weekly&theme=github-dark-blue&type=svg&hide_border=true" type="image/svg+xml">
 
-    <img alt="Commits sparkline fallback" 
-      src='data:image/svg+xml;utf8,
-      <svg xmlns="http://www.w3.org/2000/svg" width="760" height="90">
-        <rect width="760" height="90" rx="6" fill="%23102129"/>
-        <text x="20" y="25" font-family="Arial" font-size="14" fill="%23ffffff">
-          Commits (last 90 days) — Live chart unavailable
-        </text>
-        <polyline 
-          points="20,70 60,62 100,55 140,45 180,48 220,38 260,42 300,28 340,24 380,34 420,18 460,20 500,30 540,26 580,36 620,30 660,22 700,26"
-          fill="none" stroke="%238be9a6" stroke-width="2" />
-      </svg>' />
+    <img alt="Commits sparkline fallback" src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22760%22%20height%3D%2290%22%3E%3Crect%20width%3D%22760%22%20height%3D%2290%22%20rx%3D%226%22%20fill%3D%22%23102129%22%2F%3E%3Ctext%20x%3D%2220%22%20y%3D%2225%22%20font-family%3D%22Arial%22%20font-size%3D%2214%22%20fill%3D%22%23ffffff%22%3ECommits%20(last%2090%20days)%20%E2%80%94%20Live%20chart%20unavailable%3C%2Ftext%3E%3Cpolyline%20points%3D%2220%2C70%2060%2C62%20100%2C55%20140%2C45%20180%2C48%20220%2C38%20260%2C42%20300%2C28%20340%2C24%20380%2C34%20420%2C18%20460%2C20%20500%2C30%20540%2C26%20580%2C36%20620%2C30%20660%2C22%20700%2C26%22%20fill%3D%22none%22%20stroke%3D%22%238be9a6%22%20stroke-width%3D%222%22%2F%3E%3C%2Fsvg%3E" />
   </picture>
 </p>
