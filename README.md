@@ -28,17 +28,6 @@ Experienced with React, Next.js, Tailwind CSS, TypeScript, Node, Docker, Linux, 
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Pruthvi-123-prog&show_icons=true&theme=github_dark&count_private=true&hide_border=true" 
-    alt="GitHub Stats"
-  />
-</p>
-
----
-
 ## Languages
 
 <p align="center">
