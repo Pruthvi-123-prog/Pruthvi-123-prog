@@ -1,14 +1,14 @@
 # PRUTHVI SUVARNA KM
 ### Full-Stack Developer | Penetration Tester | Security-Focused Engineer
 
-Building secure, scalable, and production-ready systems with modern web technologies and security-first practices.
+Designing and building secure, scalable, production-grade systems with a security-first mindset.
 
 ---
 
 ## ABOUT
 
-Full-stack developer and penetration tester specializing in **secure architectures**, **modern frontend systems**, and **cloud-native deployments**.  
-Strong focus on **application security**, **API protection**, and **clean engineering principles**.
+Full-stack developer and penetration tester with experience in **secure web architectures**, **modern frontend systems**, and **cloud-native deployments**.  
+Focused on **application security**, **API hardening**, and **clean, maintainable engineering**.
 
 ---
 
@@ -50,25 +50,33 @@ Strong focus on **application security**, **API protection**, and **clean engine
   <img src="https://skillicons.dev/icons?i=docker,nginx,jenkins,linux,gcp,firebase&perline=8" />
 </p>
 
-### Security Focus
-- Web Application Security  
+### Security
+- Web Application Penetration Testing  
 - API Security & JWT  
 - Authentication & Authorization Hardening  
 - Secure CI/CD Pipelines  
 
 ---
 
-## ENGINEERING ANALYTICS
+## DEVELOPMENT ANALYTICS DASHBOARD
 
-### GitHub Performance
-<img src="https://github-readme-stats.vercel.app/api?username=Pruthvi-123-prog&show_icons=true&theme=transparent&hide_border=true" />
-
-### Language Usage
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvi-123-prog&layout=compact&theme=transparent&hide_border=true" />
+### Profile Overview (Very Stable)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pruthvi-123-prog&theme=github_dark" />
 
 ---
 
-## CONTRIBUTION ACTIVITY
+### Commit Activity & Productivity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pruthvi-123-prog&theme=github_dark&utcOffset=5.5" />
+
+---
+
+### Commit Frequency by Language
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pruthvi-123-prog&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pruthvi-123-prog&theme=github_dark" />
+
+---
+
+## CONTRIBUTION HISTORY (ACTIVITY MAP)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pruthvi-123-prog&theme=github-dark&hide_border=true" />
 
@@ -77,16 +85,16 @@ Strong focus on **application security**, **API protection**, and **clean engine
 ## ENGINEERING SIGNALS
 
 - Security-first full-stack development  
-- Real-world penetration testing experience  
-- Modern authentication and API security workflows  
+- Practical penetration testing experience  
+- Strong API design and protection strategies  
 - Containerized deployments with CI/CD  
-- Consistent contributor with long-term activity  
+- Consistent long-term contributor  
 
 ---
 
-## PROFILE PRINCIPLES
+## ENGINEERING PRINCIPLES
 
 - Security before convenience  
 - Performance over shortcuts  
-- Clean architecture always  
+- Clean architecture over hacks  
 - Continuous improvement
