@@ -1,27 +1,111 @@
-# 💫 About Me:
-Full-stack developer and penetration tester focusing on secure, scalable, user-centric systems.<br>Experienced with React, Next.js, Tailwind CSS, TypeScript, Node, Docker, Linux, and modern security testing methodologies.<br><br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_suvarna.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthvi-suvarna-km) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pruthvis2004) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Fancy_Bear_V2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PruthviS150075) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tyrant_MadMax) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pruthvis2004@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pruthvi-123-prog&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pruthvi-123-prog&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvi-123-prog&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pruthvi-123-prog&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pruthvi-123-prog&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+# PRUTHVI SUVARNA KM
+### Full-Stack Developer | Penetration Tester | Security-Focused Engineer
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pruthvi-123-prog&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ABOUT
+
+Full-stack developer and penetration tester specializing in **secure, scalable, and user-centric systems**.  
+Strong focus on **application security**, **modern web architectures**, and **cloud-native deployments**.
+
+**Expertise Areas**
+- Secure Web Application Development  
+- Offensive Security & Vulnerability Research  
+- Frontend Engineering with Modern Frameworks  
+- API Design, Authentication & Authorization  
+- Cloud, DevOps & Containerization  
+
+---
+
+## PROFESSIONAL NETWORK
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin)](https://linkedin.com/in/pruthvi-suvarna-km)
+[![Instagram](https://img.shields.io/badge/Instagram-Portfolio-lightgrey?logo=instagram)](https://instagram.com/_suvarna.exe)
+[![X](https://img.shields.io/badge/X-Insights-black?logo=x)](https://x.com/PruthviS150075)
+[![Reddit](https://img.shields.io/badge/Reddit-Research-orange?logo=reddit)](https://reddit.com/user/Fancy_Bear_V2)
+[![YouTube](https://img.shields.io/badge/YouTube-Tech%20Content-red?logo=youtube)](https://youtube.com/@Tyrant_MadMax)
+[![Email](https://img.shields.io/badge/Email-Contact-critical?logo=gmail)](mailto:pruthvis2004@gmail.com)
+
+---
+
+## TECHNOLOGY STACK
+
+### Languages & Scripting
+JavaScript · TypeScript · Kotlin · Bash · PowerShell  
+
+### Frontend Engineering
+React · Next.js · Tailwind CSS · Bootstrap · jQuery  
+Figma · Canva  
+
+### Backend & APIs
+Node.js · Express.js · FastAPI · Django  
+JWT · Prisma  
+
+### Databases
+MongoDB · MySQL · SQLite · Microsoft SQL Server · Oracle  
+
+### DevOps & Cloud
+Docker · Jenkins · Nginx · Apache · Gunicorn  
+Google Cloud · Firebase · Netlify  
+Linux · Windows Terminal  
+
+### Security
+Web Application Penetration Testing  
+API Security Testing  
+Authentication & Authorization Hardening  
+Secure Deployment & CI/CD Practices  
+
+---
+
+## ENGINEERING ANALYTICS DASHBOARD
+
+### GitHub Account Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pruthvi-123-prog&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+### Contribution Consistency
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Pruthvi-123-prog&theme=dark&hide_border=true)
+
+### Language Distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvi-123-prog&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## CONTRIBUTION MAP (ACTIVITY BOARD)
+
+### Yearly Contribution Heatmap
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pruthvi-123-prog&theme=github-dark&hide_border=true)
+
+---
+
+## ACHIEVEMENTS & RECOGNITION
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pruthvi-123-prog&theme=darkhub&no-frame=true&margin-w=8)
+
+---
+
+## DEVELOPMENT INSIGHTS
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pruthvi-123-prog&theme=github_dark)
+
+![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pruthvi-123-prog&theme=github_dark&utcOffset=5.5)
+
+---
+
+## TOP CONTRIBUTED REPOSITORIES
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Pruthvi-123-prog&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## VISITOR ANALYTICS
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Pruthvi-123-prog&icon=0&color=6)
+
+---
+
+### PROFILE PRINCIPLES
+- Security First  
+- Performance Matters  
+- Clean Architecture  
+- Continuous Learning  
+- Practical Engineering
